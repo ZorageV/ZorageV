@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 💬 Ask me about **Games, Game Dev & Python**
+- 💬 Ask me about **Games, Game Dev & Web Dev**
 
 - 📫 How to reach me **manjeetazim@gmail.com**
 
