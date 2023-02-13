@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manjeetazim@gmail.com**
 
-- ⚡ Fun fact **I do**
+- ⚡ Fun fact **I know how to make a really good coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
