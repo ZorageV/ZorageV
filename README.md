@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
 <h3 align="center">I'm a Machine Learning enthusiast who for some reason is doing web devlopment by the way do u know something about me that I don't, please feel free to tell.</h3>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **Web Dev projects**
 
-- 🌱 I’m currently learning **MERN Stack & Machine learning**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web dev Projects**
 
-- 🤝 I’m looking for help with **Machine learning**
+- 🤝 I’m looking for help with **Three JS**
 
 - 💬 Ask me about **Games, Game Dev & Web Dev**
 
