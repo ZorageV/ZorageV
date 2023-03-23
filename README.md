@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/zoragev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/zoragev" height="30" width="40" /></a>
 <a href="https://twitter.com/zorage__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zorage__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manjeet-singh-665237166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjeet-singh-665237166/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manjeet-singh-665237166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjeet-singh-665237166" height="30" width="40" /></a>
 <a href="https://instagram.com/highly__reactive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="highly__reactive" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zorage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zorage" height="30" width="40" /></a>
 </p>
