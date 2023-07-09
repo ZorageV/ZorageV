@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Games,3D,Web Dev**
 
-- 📫 How to reach me **zoragework@gmail.com**
+- 📫 How to reach me <a href='https://linktr.ee/zorage'/>
 
 - ⚡ Fun fact **I replaced my coffee with coke**
 
