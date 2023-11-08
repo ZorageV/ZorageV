@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
 <h3 align="center">Enthusiastic Developer whose crazy about Productivity.</h3>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NLP**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Research Projects**
 
-- 💬 Ask me about **Games,3D,Web Dev**
+- 💬 Ask me about **Games,3D,ML**
 
 - 📫 How to reach me <a href="https://linktr.ee/zorage">Click</a>
 
-- ⚡ Fun fact **I replaced my coffee with coke**
+- ⚡ Fun fact **I have a healthy lifestyle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
