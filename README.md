@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
 <h3 align="center">Machine learning enthusiast</h3>
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning about **Databases & ML**
 
-- 👯 I’m looking to collaborate on **Machine Learning Research Projects**
+- 👯 I’m looking to collaborate on **Backend Projects which are just not REST APIs**
 
-- 💬 Ask me about **Machine Learning & Maths**
+- 💬 Ask me about **Backend & Machine Learning**
 
 - 📫 How to reach me **manjeetazim@gmail.com**
 
